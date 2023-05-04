@@ -280,6 +280,7 @@ a:hover{
 
 .opening-hours {
     position: relative;
+    left: 40px
     top: 66px;
     vertical-align: 20px;
     display: inline-block;
